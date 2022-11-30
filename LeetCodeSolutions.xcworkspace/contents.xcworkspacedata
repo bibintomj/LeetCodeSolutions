@@ -2,10 +2,13 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "group:21.MergeTwoSortedLists.playground">
+      location = "group:26.RemoveDuplicatesfromSortedArray[Easy].playground">
    </FileRef>
    <FileRef
-      location = "group:20.ValidParentheses.playground">
+      location = "group:/Users/bibin.tom.joseph/Projects/Demo/LeetCodeSolutions/21.MergeTwoSortedLists[Easy].playground">
+   </FileRef>
+   <FileRef
+      location = "group:/Users/bibin.tom.joseph/Projects/Demo/LeetCodeSolutions/20.ValidParentheses[Easy].playground">
    </FileRef>
    <FileRef
       location = "group:13.RomanToInteger[Easy].playground">
