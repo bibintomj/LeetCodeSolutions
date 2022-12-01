@@ -2,6 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:27.RemoveElement[Easy].playground">
+   </FileRef>
+   <FileRef
       location = "group:26.RemoveDuplicatesfromSortedArray[Easy].playground">
    </FileRef>
    <FileRef
