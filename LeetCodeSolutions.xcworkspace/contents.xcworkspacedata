@@ -2,6 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:58.LengthofLastWord[Easy].playground">
+   </FileRef>
+   <FileRef
       location = "group:35.SearchInsertPosition[Easy].playground">
    </FileRef>
    <FileRef

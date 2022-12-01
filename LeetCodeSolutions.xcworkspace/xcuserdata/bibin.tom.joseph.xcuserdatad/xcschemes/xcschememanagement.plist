@@ -200,6 +200,27 @@
 			<key>orderHint</key>
 			<integer>8</integer>
 		</dict>
+		<key>58.LengthofLastWord[Easy] (Playground) 1.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>12</integer>
+		</dict>
+		<key>58.LengthofLastWord[Easy] (Playground) 2.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>13</integer>
+		</dict>
+		<key>58.LengthofLastWord[Easy] (Playground).xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>11</integer>
+		</dict>
 		<key>9.Palindrome[Easy] (Playground) 1.xcscheme</key>
 		<dict>
 			<key>isShown</key>
