@@ -23,7 +23,7 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>6</integer>
+			<integer>1</integer>
 		</dict>
 		<key>13.RomanToInteger[Easy] (Playground) 1.xcscheme</key>
 		<dict>
@@ -44,7 +44,7 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>7</integer>
+			<integer>6</integer>
 		</dict>
 		<key>14.LongestCommonPrefix[Easy] (Playground) 1.xcscheme</key>
 		<dict>
@@ -128,7 +128,7 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>5</integer>
+			<integer>4</integer>
 		</dict>
 		<key>21.MergeTwoSortedLists (Playground) 1.xcscheme</key>
 		<dict>
@@ -156,7 +156,7 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>1</integer>
+			<integer>10</integer>
 		</dict>
 		<key>26.RemoveDuplicatesfromSortedArray[Easy] (Playground) 1.xcscheme</key>
 		<dict>
@@ -177,7 +177,7 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>3</integer>
+			<integer>8</integer>
 		</dict>
 		<key>27.RemoveElement[Easy] (Playground) 1.xcscheme</key>
 		<dict>
@@ -198,7 +198,7 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>9</integer>
+			<integer>2</integer>
 		</dict>
 		<key>35.SearchInsertPosition[Easy] (Playground) 1.xcscheme</key>
 		<dict>
@@ -219,7 +219,7 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>2</integer>
+			<integer>5</integer>
 		</dict>
 		<key>58.LengthofLastWord[Easy] (Playground) 1.xcscheme</key>
 		<dict>
@@ -240,7 +240,7 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>8</integer>
+			<integer>3</integer>
 		</dict>
 		<key>66.PlusOne (Playground) 1.xcscheme</key>
 		<dict>
@@ -257,6 +257,13 @@
 			<integer>13</integer>
 		</dict>
 		<key>66.PlusOne (Playground).xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>11</integer>
+		</dict>
+		<key>66.PlusOne[Easy] (Playground).xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
@@ -284,6 +291,34 @@
 			<key>orderHint</key>
 			<integer>14</integer>
 		</dict>
+		<key>67.AddBinary[Easy] (Playground).xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>9</integer>
+		</dict>
+		<key>69.Sqrt(x)[Easy] (Playground) 1.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>13</integer>
+		</dict>
+		<key>69.Sqrt(x)[Easy] (Playground) 2.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>14</integer>
+		</dict>
+		<key>69.Sqrt(x)[Easy] (Playground).xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>12</integer>
+		</dict>
 		<key>9.Palindrome[Easy] (Playground) 1.xcscheme</key>
 		<dict>
 			<key>isShown</key>
@@ -303,7 +338,7 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>10</integer>
+			<integer>7</integer>
 		</dict>
 		<key>Palindrome[Easy] (Playground) 1.xcscheme</key>
 		<dict>
