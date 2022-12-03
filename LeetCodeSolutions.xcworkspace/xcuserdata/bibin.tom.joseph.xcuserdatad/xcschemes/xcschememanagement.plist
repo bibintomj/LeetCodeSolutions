@@ -263,6 +263,27 @@
 			<key>orderHint</key>
 			<integer>11</integer>
 		</dict>
+		<key>67.AddBinary (Playground) 1.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>15</integer>
+		</dict>
+		<key>67.AddBinary (Playground) 2.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>16</integer>
+		</dict>
+		<key>67.AddBinary (Playground).xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>14</integer>
+		</dict>
 		<key>9.Palindrome[Easy] (Playground) 1.xcscheme</key>
 		<dict>
 			<key>isShown</key>
