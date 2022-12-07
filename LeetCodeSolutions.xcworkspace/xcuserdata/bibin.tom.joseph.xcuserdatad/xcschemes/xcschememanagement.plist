@@ -340,6 +340,27 @@
 			<key>orderHint</key>
 			<integer>13</integer>
 		</dict>
+		<key>83.RemoveDuplicatesfromSortedList (Playground) 1.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>17</integer>
+		</dict>
+		<key>83.RemoveDuplicatesfromSortedList (Playground) 2.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>18</integer>
+		</dict>
+		<key>83.RemoveDuplicatesfromSortedList (Playground).xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>16</integer>
+		</dict>
 		<key>9.Palindrome[Easy] (Playground) 1.xcscheme</key>
 		<dict>
 			<key>isShown</key>
