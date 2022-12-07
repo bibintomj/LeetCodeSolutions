@@ -2,6 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:88.MergeSortedArray.playground">
+   </FileRef>
+   <FileRef
       location = "group:83.RemoveDuplicatesfromSortedList.playground">
    </FileRef>
    <FileRef
